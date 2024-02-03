@@ -30,6 +30,6 @@ Si vous êtes passionné par les structures de données et souhaitez contribuer 
 2. Clonez le référentiel et créez une branche pour votre contribution.
 3. Effectuez vos modifications et proposez une pull request.
 
-## Explorer et Apprendre
+## Explorer  et Apprendre
 
 Explorez les implémentations, comprenez les principes fondamentaux, et plongez dans le monde captivant des structures de données. Que votre parcours en programmation soit un voyage enrichissant !
